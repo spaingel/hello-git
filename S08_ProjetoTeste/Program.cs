@@ -6,7 +6,10 @@ namespace S08_ProjetoTeste
     {
         static void Main(string[] args) {
             Console.WriteLine("Hello friend");
+            Console.WriteLine("How are you today?");
             Console.WriteLine("Nice talking to you");
+
+
             Console.ReadLine();
         }
     }
